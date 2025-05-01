@@ -94,6 +94,13 @@ HTTP status codes can reveal important information during penetration testing, i
 
 ---
 
+## 🛡️ Looking for the Cybersecurity Version?
+
+Check out the companion guide tailored for penetration testing, incident response, and secure web application design:
+
+🔗 [Cybersecurity HTTP Status Code Guide](https://github.com/cherinejoseph/http-status-codes-for-cybersecurity-it)
+
+---
 ## 🧩 Want to Contribute?
 
 Feel free to fork, add case studies, or link this to your detection rules for SIEM/WAF/EDR pipelines. PRs welcome!
